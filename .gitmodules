@@ -1,0 +1,3 @@
+[submodule "shuffle-team"]
+	path = shuffle-team
+	url = https://github.com/marttheus/shuffle-team
